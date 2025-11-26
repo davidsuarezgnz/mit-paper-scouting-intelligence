@@ -6,9 +6,7 @@ This repository accompanies the abstract submission for the MIT Sports Analytics
 ## Repository Structure (to be updated)
 project/
 
-├── data/ # Placeholder for public datasets
-
-├── src/ # Core algorithms (to be released with full paper)
+├── data/ # Public datasets
 
 ├── notebooks/ # Reproducibility workflows
 
