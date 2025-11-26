@@ -12,18 +12,6 @@ project/
 
 └── README.md # Project documentation
 
-## Data
-- **Current submission**: uses synthetic/public placeholders.  
-- **Full paper version**: will include adapted pipelines with publicly available data.  
-
-## Instructions
-For now, no runnable code is attached.  
-Once the full paper is requested, this repository will be updated with:
-
-- Preprocessing scripts  
-- Core algorithm implementation  
-- Reproducibility instructions  
-
 ---
 
 ## Abstract
