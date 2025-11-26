@@ -42,7 +42,7 @@ The core of the similarity engine is a multi-stage pipeline:
 
 The resulting engine enables clubs to:
 - Instantly identify stylistic replacements grounded in tactical and economic reality.
-- Benchmark youth players against elite-level role models based on developmental curves (Liu et al., 2022).
+- Benchmark youth players against elite-level role models based on developmental curves.
 - Discover undervalued talents with near-identical statistical footprints to high-value players.
 
 This paper argues that scouting should not rely on memory, anecdote, or highlight reels, but rather on mathematical proximity, tactical embeddings, and contextualized role modeling. In a game increasingly shaped by marginal gains and short transfer windows, a universal language of similarity may be the foundation for more intelligent, reactive football strategy.
